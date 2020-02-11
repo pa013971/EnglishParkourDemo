@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EnglishParkourTeaching",
+"productVersion": "0.1",
+"dataUrl": "EnglishParkourDemo.data.unityweb",
+"wasmCodeUrl": "EnglishParkourDemo.wasm.code.unityweb",
+"wasmFrameworkUrl": "EnglishParkourDemo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
